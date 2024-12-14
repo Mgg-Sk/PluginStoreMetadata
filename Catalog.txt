@@ -1,2 +1,2 @@
-Test
-Test 2
+MggSk.PluginMenu.PluginMenu
+MggSk.PluginStore.PluginStore
